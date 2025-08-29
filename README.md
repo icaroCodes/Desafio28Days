@@ -26,7 +26,7 @@
 ## 📅 **Dias do Desafio**
 
 ### 📌 **Dia 1: Kickoff**
-🔗 [Este repositório é o Dia 1](https://github.com/Icarox52/Desafio28Days)  
+🔗 [Este repositório é o Dia 1](https://github.com/icaroCodes/Desafio28Days)  
 🛠️ **Setup Inicial**  
 
 ✔️ Criar repositório no GitHub  
@@ -35,15 +35,15 @@
 
 
 ### 📌 **Dia 2: Página de Login**
-🔗 [Repositório do Dia 2](https://github.com/Icarox52/dia2De28)
+🔗 [Repositório do Dia 2](https://github.com/icaroCodes/dia2De28)
 OU
-🔗 [Outro Site do Dia 2](https://icarox52.github.io/TreinoLogin/)
+🔗 [Outro Site do Dia 2](https://icaroCodes.github.io/TreinoLogin/)
 
 ### 📌 **Dia 3: Página de E-commerce**
-🔗 [Repositório do Dia 3](https://github.com/Icarox52/dia3De28)
+🔗 [Repositório do Dia 3](https://github.com/icaroCodes/dia3De28)
 
-### 📌 **Dia 4: Calculadora React**
-🔗 [Repositório do Dia 4](https://github.com/Icarox52/dia4De28)
+### 📌 **Dia 4: Clicker React**
+🔗 [Repositório do Dia 4](https://github.com/icaroCodes/clicker)
 
 
 ### 📌 **Dias 5-28: Em Desenvolvimento**
@@ -70,7 +70,7 @@ OU
 
 Gostou do projeto? Me siga no GitHub para mais conteúdos incríveis!
 
-[![GitHub Follow](https://img.shields.io/github/followers/Icarox52?label=Follow%20%40Icarox52&style=social)](https://github.com/Icarox52)
+[![GitHub Follow](https://img.shields.io/github/followers/icaroCodes?label=Follow%20%40Icarox52&style=social)](https://github.com/icaroCodes)
 
 ---
 
