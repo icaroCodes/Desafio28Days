@@ -70,11 +70,11 @@ OU
 
 Gostou do projeto? Me siga no GitHub para mais conteúdos incríveis!
 
-[![GitHub Follow](https://img.shields.io/github/followers/icaroCodes?label=Follow%20%40Icarox52&style=social)](https://github.com/icaroCodes)
+[![GitHub Follow](https://img.shields.io/github/followers/icaroCodes?label=Follow%20%40icaroCodes&style=social)](https://github.com/icaroCodes)
 
 ---
 
-Desenvolvido com ❤️ por **Icarox52** usando as melhores tecnologias web. 🚀
+Desenvolvido com ❤️ por **icaroCodes** usando as melhores tecnologias web. 🚀
 
 
 </div>
