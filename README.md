@@ -59,7 +59,7 @@
 ![Nível Avançado](https://img.shields.io/badge/Nível-Avançado-blueviolet)
 
 ⏳ **Compromisso**  
-![3h/dia](https://img.shields.io/badge/Dedicacao-3h%2Fdia-important)
+![3h/dia](https://img.shields.io/badge/Dedicacao-1h%2Fdia-important)
 
 
 
