@@ -35,9 +35,7 @@
 
 
 ### 📌 **Dia 2: Página de Login**
-🔗 [Repositório do Dia 2](https://github.com/icaroCodes/dia2De28)
-OU
-🔗 [Outro Site do Dia 2](https://icaroCodes.github.io/TreinoLogin/)
+🔗 [Site do Dia 2](https://icaroCodes.github.io/TreinoLogin/)
 
 ### 📌 **Dia 3: Página de E-commerce**
 🔗 [Repositório do Dia 3](https://github.com/icaroCodes/dia3De28)
