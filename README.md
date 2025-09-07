@@ -37,15 +37,11 @@
 ### 📌 **Dia 2: Página de Login**
 🔗 [Site do Dia 2](https://icaroCodes.github.io/TreinoLogin/)
 
-### 📌 **Dia 3: Página de E-commerce**
-🔗 [Repositório do Dia 3](https://github.com/icaroCodes/dia3De28)
-
-
-### 📌 **Dia 5: Clicker React e formulário usando hooks**
+### 📌 **Dia 3: Clicker React e formulário usando hooks**
 🔗 [Repositório do Dia 4](https://github.com/icaroCodes/hooks)
 
 
-### 📌 **Dias 6-28: Em Desenvolvimento**
+### 📌 **Dias 4-28: Em Desenvolvimento**
 🚧 *Projetos dos próximos dias serão adicionados em breve*  
 🔜 **Fique atento para atualizações!**
 
