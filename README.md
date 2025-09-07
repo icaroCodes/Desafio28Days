@@ -41,14 +41,14 @@
 🔗 [Repositório do Dia 4](https://github.com/icaroCodes/hooks)
 
 
-### 📌 **Dias 4-28: Em Desenvolvimento**
+### 📌 **Dias 4-21: Em Desenvolvimento**
 🚧 *Projetos dos próximos dias serão adicionados em breve*  
 🔜 **Fique atento para atualizações!**
 
 ---
 
 
-### 🏆 **Dia 28: Projeto Final**
+### 🏆 **Dia 22-28: Projeto Final**
 🔥 *Projeto completo integrando tudo que revisei*
 
 ---
