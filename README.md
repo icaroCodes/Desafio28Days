@@ -13,7 +13,7 @@
 ### 🎯 *Treinar • Revisar • Aprimorar* minhas habilidades Full-Stack  
 
 ✨ **IDEIA PRINCIPAL DO DESAFIO** ✨  
-<h3 style="color: #2d3436;">Um mês de imersão total para:</h3>
+<h3 style="color: #2d3436;">Um tempo de imersão total para:</h3>
 
 🔄 **TREINAR** - Prática diária com projetos reais  
 📚 **REVISAR** - Consolidação dos fundamentos  
@@ -56,10 +56,7 @@
 <div align="center">
 
 ⭐ **Dificuldade**  
-![Nível Avançado](https://img.shields.io/badge/Nível-Avançado-blueviolet)
-
-⏳ **Compromisso**  
-![3h/dia](https://img.shields.io/badge/Dedicacao-1h%2Fdia-important)
+![Nível Médio](https://img.shields.io/badge/Nível-Médio-blueviolet)
 
 
 
